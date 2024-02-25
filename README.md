@@ -1,4 +1,4 @@
-### Eclipse Omni Owl Dracula Best Theme
+### Eclipse Omni Owl Dracula Best Theme | Color Scheme
 
 ## Dependencies
 >DevStyle
